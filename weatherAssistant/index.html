@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Show route</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id='map'></div>
+<script>
+    function initializeMap() {
+        mapboxgl.accessToken =
+            'pk.eyJ1Ijoia2FsaW5lYyIsImEiOiJjam1taWhiZDUwaHhnM2twYm4wZzV5cHFjIn0.NTnV11b82zHlFdXU998L7Q';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v9',
+            center: [22.548662, 51.235211],
+            zoom: 0
+        });
+    }
+    function getRoute(latitude, longitude) {
+        mapboxgl.accessToken =
+            'pk.eyJ1Ijoia2FsaW5lYyIsImEiOiJjam1taWhiZDUwaHhnM2twYm4wZzV5cHFjIn0.NTnV11b82zHlFdXU998L7Q';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v9',
+            center: [latitude[0], longitude[0]],
+            zoom: 15
+        });
+
+        map.on('load',
+            function () {
+                var route = latitude.map(function (item, i) {
+                    return [item, [longitude[i]]];
+                });
+
+                var bbox = [
+                    [latitude[0], longitude[0]],
+                    [latitude[latitude.length - 1], longitude[longitude.length - 1]]];
+
+                map.fitBounds(bbox, {
+                    padding: {top: 50, bottom:50, left: 50, right: 50}
+                });
+
+                map.addLayer({
+                    "id": "route",
+                    "type": "line",
+                    "source": {
+                        "type": "geojson",
+                        "data": {
+                            "type": "Feature",
+                            "properties": {},
+                            "geometry": {
+                                "type": "LineString",
+                                "coordinates": route
+                            }
+                        }
+                    },
+                    "layout": {
+                        "line-join": "round",
+                        "line-cap": "round"
+                    },
+                    "paint": {
+                        "line-color": "#4098f7",
+                        "line-width": 4
+                    }
+                });
+            });
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="weatherAssistant.Views.NotificationsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:vm="clr-namespace:weatherAssistant.ViewModels"
+             xmlns:p="clr-namespace:weatherAssistant.Properties"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:weatherAssistant.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <vm:NotificationsViewModel x:Key="NotificationsViewModel"/>
+    </UserControl.Resources>
+    <StackPanel DataContext="{StaticResource NotificationsViewModel}">
+        
+        
+        <TextBlock FontSize="20" Margin="7,3,3,10" Text="{x:Static p:Resources.Notifications_StormNotifications}" />
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Style="{StaticResource WeatherDataTextBlockStyle}" Margin="15,3,3,3" Text="{x:Static p:Resources.City}" />
+            <TextBox Margin="17,3,3,3" Width="250" Text="{Binding Place}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Margin="15,3,3,3" Style="{StaticResource WeatherDataTextBlockStyle}" Text="{x:Static p:Resources.Radius}"/>
+            <ComboBox Margin="7,3,3,3" ItemsSource="{Binding RadiusItems}" SelectedValue="{Binding SelectedRadius}" SelectedIndex="{Binding IndexRadius}" Width="70"/>
+        </StackPanel>
+        <TextBlock Margin="7,3,3,10" FontSize="20" Text="{x:Static p:Resources.Notifications_WeatherAlertNotifications}"/>
+        <CheckBox Margin="15,3,3,3" FontSize="16" IsChecked="{Binding FrostIsChecked}" Content="{x:Static p:Resources.Frost}"/>
+        <CheckBox Margin="15,3,3,3" FontSize="16" IsChecked="{Binding HeatIsChecked}" Content="{x:Static p:Resources.Heat}"/>
+        <CheckBox Margin="15,3,3,3" FontSize="16" IsChecked="{Binding WindIsChecked}" Content="{x:Static p:Resources.Wind}"/>
+        <CheckBox Margin="15,3,3,3" FontSize="16" IsChecked="{Binding RainIsChecked}" Content="{x:Static p:Resources.Rain}"/>
+        <CheckBox Margin="15,3,3,3" FontSize="16" IsChecked="{Binding StormsIsChecked}" Content="{x:Static p:Resources.Storms}"/>
+        <CheckBox Margin="15,3,3,3" FontSize="16" IsChecked="{Binding TornadoIsChecked}" Content="{x:Static p:Resources.Tornado}"/>
+        <TextBlock Margin="7,3,3,10" FontSize="20" Style="{StaticResource WeatherDataTextBlockStyle}" Text="{x:Static p:Resources.Notifications_UpdatesFrequency}"/>
+        <StackPanel Orientation="Horizontal">
+            <ComboBox Margin="15,3,3,3" Width="70" ItemsSource="{Binding UpdatesFrequencyItems}" SelectedValue="{Binding SelectedFrequency}" SelectedIndex="{Binding IndexUpdates}"/>
+            <TextBlock Margin="7,3,3,3" Style="{StaticResource WeatherDataTextBlockStyle}" Text="{x:Static p:Resources.Minutes}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Margin="15,3,3,3" Width="130" Height="30" Content="{x:Static p:Resources.Notifications_Cancel}" Command="{Binding CancelCommand}"/>
+            <Button Margin="7,3,3,3" Width="130" Height="30" Content="{x:Static p:Resources.Notifications_Confirm}" Command="{Binding ConfirmCommand}"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

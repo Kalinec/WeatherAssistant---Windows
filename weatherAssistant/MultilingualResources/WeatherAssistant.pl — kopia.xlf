@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="pl" original="WEATHERASSISTANT/PROPERTIES/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="WEATHERASSISTANT/PROPERTIES/RESOURCES.RESX" datatype="resx">
+        <trans-unit id="Title_test" translate="yes" xml:space="preserve">
+          <source>Hello</source>
+          <target state="translated">Cześć</target>
+        </trans-unit>
+        <trans-unit id="Menu_StormyMap" translate="yes" xml:space="preserve">
+          <source>Stormy Map</source>
+          <target state="translated">Mapa Burzowa</target>
+        </trans-unit>
+        <trans-unit id="Menu_WeatherForecast" translate="yes" xml:space="preserve">
+          <source>Weather Forecast</source>
+          <target state="translated">Prognoza Pogody</target>
+        </trans-unit>
+        <trans-unit id="Latitude" translate="yes" xml:space="preserve">
+          <source>Latitude</source>
+          <target state="translated">Długość</target>
+        </trans-unit>
+        <trans-unit id="Longitude" translate="yes" xml:space="preserve">
+          <source>Longitude</source>
+          <target state="translated">Szerokość</target>
+        </trans-unit>
+        <trans-unit id="Condition" translate="yes" xml:space="preserve">
+          <source>Condition</source>
+          <target state="translated">Warunki Pogodowe</target>
+        </trans-unit>
+        <trans-unit id="Description" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Opis</target>
+        </trans-unit>
+        <trans-unit id="Humidity" translate="yes" xml:space="preserve">
+          <source>Humidity</source>
+          <target state="translated">Wilgotność</target>
+        </trans-unit>
+        <trans-unit id="Pressure" translate="yes" xml:space="preserve">
+          <source>Pressure</source>
+          <target state="translated">Ciśnienie</target>
+        </trans-unit>
+        <trans-unit id="WindSpeed" translate="yes" xml:space="preserve">
+          <source>Wind Speed</source>
+          <target state="translated">Prędkość wiatru</target>
+        </trans-unit>
+        <trans-unit id="MapOfEurope_animated" translate="yes" xml:space="preserve">
+          <source>Map of Europe (animated)</source>
+          <target state="translated">Mapa Europy (animowana)</target>
+        </trans-unit>
+        <trans-unit id="MapOfEurope_static" translate="yes" xml:space="preserve">
+          <source>Map of Europe (static)</source>
+          <target state="translated">Mapa Europy (statyczna)</target>
+        </trans-unit>
+        <trans-unit id="MapOfPoland_animated" translate="yes" xml:space="preserve">
+          <source>Map of Poland (animated)</source>
+          <target state="translated">Mapa Polski (animowana)</target>
+        </trans-unit>
+        <trans-unit id="MapOfPoland_static" translate="yes" xml:space="preserve">
+          <source>Map of Poland (static)</source>
+          <target state="translated">Mapa Polski (statyczna)</target>
+        </trans-unit>
+        <trans-unit id="Menu_StormSearch" translate="yes" xml:space="preserve">
+          <source>Storm Search</source>
+          <target state="translated">Szukaj burzy</target>
+        </trans-unit>
+        <trans-unit id="City" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="translated">Miasto</target>
+        </trans-unit>
+        <trans-unit id="Coordinate" translate="yes" xml:space="preserve">
+          <source>Coordinate</source>
+          <target state="translated">Współrzędne miasta</target>
+        </trans-unit>
+        <trans-unit id="Or" translate="yes" xml:space="preserve">
+          <source>or</source>
+          <target state="translated">lub</target>
+        </trans-unit>
+        <trans-unit id="Radius" translate="yes" xml:space="preserve">
+          <source>Radius</source>
+          <target state="translated">Promień</target>
+        </trans-unit>
+        <trans-unit id="Direction" translate="yes" xml:space="preserve">
+          <source>Direction</source>
+          <target state="translated">Kierunek</target>
+        </trans-unit>
+        <trans-unit id="NumberOfThunderbolts" translate="yes" xml:space="preserve">
+          <source>Number of thunderbolts</source>
+          <target state="translated">Liczba wyładowań</target>
+        </trans-unit>
+        <trans-unit id="Time" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <target state="translated">Czas</target>
+        </trans-unit>
+        <trans-unit id="Check" translate="yes" xml:space="preserve">
+          <source>Check</source>
+          <target state="translated">Sprawdź</target>
+        </trans-unit>
+        <trans-unit id="NearestThunderbolt" translate="yes" xml:space="preserve">
+          <source>Nearest thunderbolt</source>
+          <target state="translated">Najbliższe wyładowanie</target>
+        </trans-unit>
+        <trans-unit id="Menu_PlanTheTrip" translate="yes" xml:space="preserve">
+          <source>Plan a trip</source>
+          <target state="translated">Zaplanuj wycieczkę</target>
+        </trans-unit>
+        <trans-unit id="DestinationCity" translate="yes" xml:space="preserve">
+          <source>Destination City</source>
+          <target state="translated">Docelowe miasto</target>
+        </trans-unit>
+        <trans-unit id="SourceCity" translate="yes" xml:space="preserve">
+          <source>Source City</source>
+          <target state="translated">Źródłowe miasto</target>
+        </trans-unit>
+        <trans-unit id="Frost" translate="yes" xml:space="preserve">
+          <source>Frost</source>
+          <target state="translated">Mróz</target>
+        </trans-unit>
+        <trans-unit id="Heat" translate="yes" xml:space="preserve">
+          <source>Heat</source>
+          <target state="translated">Upał</target>
+        </trans-unit>
+        <trans-unit id="Rain" translate="yes" xml:space="preserve">
+          <source>Rain</source>
+          <target state="translated">Opady</target>
+        </trans-unit>
+        <trans-unit id="Storms" translate="yes" xml:space="preserve">
+          <source>Storms</source>
+          <target state="translated">Burze</target>
+        </trans-unit>
+        <trans-unit id="Tornado" translate="yes" xml:space="preserve">
+          <source>Tornado</source>
+          <target state="translated">Trąby powietrzne</target>
+        </trans-unit>
+        <trans-unit id="Wind" translate="yes" xml:space="preserve">
+          <source>Wind</source>
+          <target state="translated">Wiatr</target>
+        </trans-unit>
+        <trans-unit id="Warning_Frost1" translate="yes" xml:space="preserve">
+          <source>From -20 to -25 °C</source>
+          <target state="translated">Od -20 do -25 °C</target>
+        </trans-unit>
+        <trans-unit id="Warning_Frost2" translate="yes" xml:space="preserve">
+          <source>From -26 to -30 °C</source>
+          <target state="translated">Od -26 do -30 °C</target>
+        </trans-unit>
+        <trans-unit id="Warning_Frost3" translate="yes" xml:space="preserve">
+          <source>Below -30 °C</source>
+          <target state="translated">Poniżej -30 °C</target>
+        </trans-unit>
+        <trans-unit id="Warning_Heat1" translate="yes" xml:space="preserve">
+          <source>From 30 to 34 °C</source>
+          <target state="translated">Od 30 do 34 °C</target>
+        </trans-unit>
+        <trans-unit id="Warning_Heat2" translate="yes" xml:space="preserve">
+          <source>From 35 to 38 °C</source>
+          <target state="translated">Od 35 do 38 °C</target>
+        </trans-unit>
+        <trans-unit id="Warning_Heat3" translate="yes" xml:space="preserve">
+          <source>Above 38 °C</source>
+          <target state="translated">Powyżej 38 °C</target>
+        </trans-unit>
+        <trans-unit id="Warning_Rain1" translate="yes" xml:space="preserve">
+          <source>Rain from 25 to 40 mm&amp;#x0a;in 24 hours&amp;#x0a;or&amp;#x0a;Snow from 10 to 15 cm&amp;#x0a;in 24 hours</source>
+          <target state="translated">Deszcz od 25 do 40 mm
+w ciągu 24 godzin
+lub
+Śnieg od 10 do 15 cm
+w ciągu 24 godzin</target>
+        </trans-unit>
+        <trans-unit id="Warning_Rain2" translate="yes" xml:space="preserve">
+          <source>Rain from 41 to 70 mm&amp;#x0a;in 24 hours&amp;#x0a;or&amp;#x0a;Snow from 16 to 30 cm&amp;#x0a;in 24 hours&amp;#x0a;or&amp;#x0a;Snow from 10 to 15 cm&amp;#x0a;in 12 hours</source>
+          <target state="translated">Deszcz od 41 do 70 mm
+w ciągu 24 godzin
+lub
+Śnieg od 16 do 30 cm
+w ciągu 24 godzin
+lub
+Śnieg od 10 do 15 cm
+w ciągu 12 godzin</target>
+        </trans-unit>
+        <trans-unit id="Warning_Rain3" translate="yes" xml:space="preserve">
+          <source>Rain above 70 mm&amp;#x0a;in 24 hours&amp;#x0a;or&amp;#x0a;Snow above 30 cm&amp;#x0a;in 24 hours&amp;#x0a;or&amp;#x0a;Snow above 15 cm&amp;#x0a;in 12 hours</source>
+          <target state="translated">Deszcz powyżej 70 mm
+w ciągu 24 godzin
+lub
+Śnieg powyżej 30 cm
+w ciągu 24 godzin
+lub
+Śnieg powyżej 15 cm
+w ciągu 12 godzin</target>
+        </trans-unit>
+        <trans-unit id="Warning_Storms1" translate="yes" xml:space="preserve">
+          <source>Rain from 15 to 40 mm&amp;#x0a;Wind in gusts from 60 to 90 km/h&amp;#x0a;Hail below 2 cm</source>
+          <target state="translated">Deszcz od 15 do 40 mm
+Wiatr w porywach od 60 do 90 km/h
+Grad poniżej 2 cm</target>
+        </trans-unit>
+        <trans-unit id="Warning_Storms2" translate="yes" xml:space="preserve">
+          <source>Rain from 41 to 70 mm&amp;#x0a;Wind in gusts from 91 to 110 km/h&amp;#x0a;Hail from 2 to 5 cm</source>
+          <target state="translated">Deszcz od 41 do 70 mm
+Wiatr w porywach od 91 do 110 km/h
+Grad od 2 do 5 cm</target>
+        </trans-unit>
+        <trans-unit id="Warning_Storms3" translate="yes" xml:space="preserve">
+          <source>Rain above 70 mm&amp;#x0a;Wind in gusts over 110 km/h&amp;#x0a;Hail above 5 cm</source>
+          <target state="translated">Deszcz powyżej 70 mm
+Wiatr w porywach powyżej 110 km/h
+Grad powyżej 5 cm</target>
+        </trans-unit>
+        <trans-unit id="Warning_Tornado1" translate="yes" xml:space="preserve">
+          <source>Low risk</source>
+          <target state="translated">Ryzyko niewielkie</target>
+        </trans-unit>
+        <trans-unit id="Warning_Tornado2" translate="yes" xml:space="preserve">
+          <source>Moderate risk</source>
+          <target state="translated">Ryzyko umiarkowane</target>
+        </trans-unit>
+        <trans-unit id="Warning_Tornado3" translate="yes" xml:space="preserve">
+          <source>High risk</source>
+          <target state="translated">Ryzyko wysokie</target>
+        </trans-unit>
+        <trans-unit id="Warning_Wind1" translate="yes" xml:space="preserve">
+          <source>In gusts from 70 to 90 km/h</source>
+          <target state="translated">W porywach od 70 do 90 km/h</target>
+        </trans-unit>
+        <trans-unit id="Warning_Wind2" translate="yes" xml:space="preserve">
+          <source>In gusts from 91 to 110 km/h</source>
+          <target state="translated">W porywach od 91 do 110 km/h</target>
+        </trans-unit>
+        <trans-unit id="Warning_Wind3" translate="yes" xml:space="preserve">
+          <source>In gusts above 100 km/h</source>
+          <target state="translated">W porywach powyżej 100 km/h</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

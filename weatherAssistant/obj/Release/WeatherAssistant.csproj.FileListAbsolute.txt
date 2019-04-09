@@ -1,0 +1,64 @@
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\weatherAssistant-praca inzynierska.exe.config
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\weatherAssistant-praca inzynierska.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\weatherAssistant-praca inzynierska.pdb
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\pl\weatherAssistant-praca inzynierska.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\JetBrains.Annotations.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\Newtonsoft.Json.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\JetBrains.Annotations.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\Newtonsoft.Json.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\WeatherAssistant.csprojAssemblyReference.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Controls\ImageButton.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Controls\MenuButton.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\MainWindow.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\StormyMapView.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\WeatherForecastView.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\App.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant-praca inzynierska_MarkupCompile.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant-praca inzynierska_MarkupCompile.lref
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\App.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Controls\ImageButton.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Controls\MenuButton.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\MainWindow.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Themes\Theme.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\StormyMapView.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\WeatherForecastView.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant-praca inzynierska.g.resources
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant_praca_inzynierska.Properties.Resources.resources
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant_praca_inzynierska.Properties.Resources.pl.resources
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\WeatherAssistant.csproj.GenerateResource.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\WeatherAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\pl\weatherAssistant-praca inzynierska.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\WeatherAssistant.csproj.CopyComplete
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant-praca inzynierska.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\weatherAssistant-praca inzynierska.pdb
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\WpfAnimatedGif.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\WpfAnimatedGif.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\EntityFramework.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\GMap.NET.Core.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\System.Data.SQLite.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\EntityFramework.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\System.Data.SQLite.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Controls\WeatherWarningInfo.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\PlanTheTripView.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\StormSearchView.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Controls\WeatherWarningInfo.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\PlanTheTripView.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Release\Views\StormSearchView.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll

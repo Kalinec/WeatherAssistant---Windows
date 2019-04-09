@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Title_test" xml:space="preserve">
+    <value>Cześć</value>
+  </data>
+  <data name="Menu_StormyMap" xml:space="preserve">
+    <value>Mapa Burzowa</value>
+  </data>
+  <data name="Menu_WeatherForecast" xml:space="preserve">
+    <value>Prognoza Pogody</value>
+  </data>
+  <data name="Latitude" xml:space="preserve">
+    <value>Długość</value>
+  </data>
+  <data name="Longitude" xml:space="preserve">
+    <value>Szerokość</value>
+  </data>
+  <data name="Condition" xml:space="preserve">
+    <value>Warunki Pogodowe</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Opis</value>
+  </data>
+  <data name="Humidity" xml:space="preserve">
+    <value>Wilgotność</value>
+  </data>
+  <data name="Pressure" xml:space="preserve">
+    <value>Ciśnienie</value>
+  </data>
+  <data name="MapOfEurope_animated" xml:space="preserve">
+    <value>Mapa Europy (animowana)</value>
+  </data>
+  <data name="MapOfEurope" xml:space="preserve">
+    <value>Mapa Europy</value>
+  </data>
+  <data name="MapOfPoland_animated" xml:space="preserve">
+    <value>Mapa Polski (animowana)</value>
+  </data>
+  <data name="MapOfPoland" xml:space="preserve">
+    <value>Mapa Polski</value>
+  </data>
+  <data name="Menu_StormSearch" xml:space="preserve">
+    <value>Szukaj burzy</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>Miasto</value>
+  </data>
+  <data name="Coordinate" xml:space="preserve">
+    <value>Współrzędne miasta</value>
+  </data>
+  <data name="Or" xml:space="preserve">
+    <value>lub</value>
+  </data>
+  <data name="Radius" xml:space="preserve">
+    <value>Promień</value>
+  </data>
+  <data name="Direction" xml:space="preserve">
+    <value>Kierunek</value>
+  </data>
+  <data name="NumberOfThunderbolts" xml:space="preserve">
+    <value>Liczba wyładowań</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Czas</value>
+  </data>
+  <data name="Check" xml:space="preserve">
+    <value>Sprawdź</value>
+  </data>
+  <data name="NearestThunderbolt" xml:space="preserve">
+    <value>Najbliższe wyładowanie</value>
+  </data>
+  <data name="Menu_PlanTheTrip" xml:space="preserve">
+    <value>Zaplanuj wycieczkę</value>
+  </data>
+  <data name="DestinationCity" xml:space="preserve">
+    <value>Docelowe miasto</value>
+  </data>
+  <data name="SourceCity" xml:space="preserve">
+    <value>Źródłowe miasto</value>
+  </data>
+  <data name="Frost" xml:space="preserve">
+    <value>Mróz</value>
+  </data>
+  <data name="Heat" xml:space="preserve">
+    <value>Upał</value>
+  </data>
+  <data name="Rain" xml:space="preserve">
+    <value>Opady</value>
+  </data>
+  <data name="Storms" xml:space="preserve">
+    <value>Burze</value>
+  </data>
+  <data name="Tornado" xml:space="preserve">
+    <value>Trąby powietrzne</value>
+  </data>
+  <data name="Wind" xml:space="preserve">
+    <value>Wiatr</value>
+  </data>
+  <data name="Warning_Frost1" xml:space="preserve">
+    <value>Od -20 do -25 °C</value>
+  </data>
+  <data name="Warning_Frost2" xml:space="preserve">
+    <value>Od -26 do -30 °C</value>
+  </data>
+  <data name="Warning_Frost3" xml:space="preserve">
+    <value>Poniżej -30 °C</value>
+  </data>
+  <data name="Warning_Heat1" xml:space="preserve">
+    <value>Od 30 do 34 °C</value>
+  </data>
+  <data name="Warning_Heat2" xml:space="preserve">
+    <value>Od 35 do 38 °C</value>
+  </data>
+  <data name="Warning_Heat3" xml:space="preserve">
+    <value>Powyżej 38 °C</value>
+  </data>
+  <data name="Warning_Rain1" xml:space="preserve">
+    <value>Deszcz od 25 do 40 mm
+w ciągu 24 godzin
+lub
+Śnieg od 10 do 15 cm
+w ciągu 24 godzin</value>
+  </data>
+  <data name="Warning_Rain2" xml:space="preserve">
+    <value>Deszcz od 41 do 70 mm
+w ciągu 24 godzin
+lub
+Śnieg od 16 do 30 cm
+w ciągu 24 godzin
+lub
+Śnieg od 10 do 15 cm
+w ciągu 12 godzin</value>
+  </data>
+  <data name="Warning_Rain3" xml:space="preserve">
+    <value>Deszcz powyżej 70 mm
+w ciągu 24 godzin
+lub
+Śnieg powyżej 30 cm
+w ciągu 24 godzin
+lub
+Śnieg powyżej 15 cm
+w ciągu 12 godzin</value>
+  </data>
+  <data name="Warning_Storms1" xml:space="preserve">
+    <value>Deszcz od 15 do 40 mm
+Wiatr w porywach od 60 do 90 km/h
+Grad poniżej 2 cm</value>
+  </data>
+  <data name="Warning_Storms2" xml:space="preserve">
+    <value>Deszcz od 41 do 70 mm
+Wiatr w porywach od 91 do 110 km/h
+Grad od 2 do 5 cm</value>
+  </data>
+  <data name="Warning_Storms3" xml:space="preserve">
+    <value>Deszcz powyżej 70 mm
+Wiatr w porywach powyżej 110 km/h
+Grad powyżej 5 cm</value>
+  </data>
+  <data name="Warning_Tornado1" xml:space="preserve">
+    <value>Ryzyko niewielkie</value>
+  </data>
+  <data name="Warning_Tornado2" xml:space="preserve">
+    <value>Ryzyko umiarkowane</value>
+  </data>
+  <data name="Warning_Tornado3" xml:space="preserve">
+    <value>Ryzyko wysokie</value>
+  </data>
+  <data name="Warning_Wind1" xml:space="preserve">
+    <value>W porywach od 70 do 90 km/h</value>
+  </data>
+  <data name="Warning_Wind2" xml:space="preserve">
+    <value>W porywach od 91 do 110 km/h</value>
+  </data>
+  <data name="Warning_Wind3" xml:space="preserve">
+    <value>W porywach powyżej 100 km/h</value>
+  </data>
+  <data name="Sunrise" xml:space="preserve">
+    <value>Wschód słońca</value>
+  </data>
+  <data name="Sunset" xml:space="preserve">
+    <value>Zachód słońca</value>
+  </data>
+  <data name="Cloudiness" xml:space="preserve">
+    <value>Zachmurzenie</value>
+  </data>
+  <data name="Speed" xml:space="preserve">
+    <value>Prędkość</value>
+  </data>
+  <data name="Direction_East" xml:space="preserve">
+    <value>Wschodni</value>
+  </data>
+  <data name="Direction_North" xml:space="preserve">
+    <value>Północny</value>
+  </data>
+  <data name="Direction_NorthEast" xml:space="preserve">
+    <value>Północno wschodni</value>
+  </data>
+  <data name="Direction_NorthWest" xml:space="preserve">
+    <value>Północno zachodni</value>
+  </data>
+  <data name="Direction_South" xml:space="preserve">
+    <value>Południowy</value>
+  </data>
+  <data name="Direction_SouthEast" xml:space="preserve">
+    <value>Południowo wschodni</value>
+  </data>
+  <data name="Direction_SouthWest" xml:space="preserve">
+    <value>Południowo zachodni</value>
+  </data>
+  <data name="Direction_West" xml:space="preserve">
+    <value>Zachodni</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>godzin</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>minut</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Frost_Degree1" xml:space="preserve">
+    <value>Mróz, ostrzeżenie I stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Frost_Degree2" xml:space="preserve">
+    <value>Mróz, ostrzeżenie II stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Frost_Degree3" xml:space="preserve">
+    <value>Mróz, ostrzeżenie III stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Heat_Degree1" xml:space="preserve">
+    <value>Upał, ostrzeżenie I stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Heat_Degree2" xml:space="preserve">
+    <value>Upał, ostrzeżenie II stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Heat_Degree3" xml:space="preserve">
+    <value>Upał, ostrzeżenie III stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High" xml:space="preserve">
+    <value>Wysokie ryzyko</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Cloudiness" xml:space="preserve">
+    <value>Wysokie zachmurzenie</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Temperature" xml:space="preserve">
+    <value>Temperatura poza normą</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Visibility" xml:space="preserve">
+    <value>Słaba widoczność</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Wind" xml:space="preserve">
+    <value>Silny wiatr</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate" xml:space="preserve">
+    <value>Umiarkowane ryzyko</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Cloudiness" xml:space="preserve">
+    <value>Umiarkowane zachmurzenie</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Temperature" xml:space="preserve">
+    <value>Temperatura w granicach normy</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Visibility" xml:space="preserve">
+    <value>Średnia widoczność</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Wind" xml:space="preserve">
+    <value>Umiarkowany wiatr</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None" xml:space="preserve">
+    <value>Brak ryzyka</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Cloudiness" xml:space="preserve">
+    <value>Niskie zachmurzenie</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Temperature" xml:space="preserve">
+    <value>Temperatura w normie</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Visibility" xml:space="preserve">
+    <value>Dobra widoczność</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Wind" xml:space="preserve">
+    <value>Słaby wiatr</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Rain_Degree1" xml:space="preserve">
+    <value>Opady, ostrzeżenie I stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Rain_Degree2" xml:space="preserve">
+    <value>Opady, ostrzeżenie II stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Rain_Degree3" xml:space="preserve">
+    <value>Opady, ostrzeżenie III stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Storms_Degree1" xml:space="preserve">
+    <value>Burze, ostrzeżenie I stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Storms_Degree2" xml:space="preserve">
+    <value>Burze, ostrzeżenie II stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Storms_Degree3" xml:space="preserve">
+    <value>Burze, ostrzeżenie III stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Tornado_Degree1" xml:space="preserve">
+    <value>Trąby powietrzne, ostrzeżenie I stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Tornado_Degree2" xml:space="preserve">
+    <value>Trąby powietrzne, ostrzeżenie II stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Tornado_Degree3" xml:space="preserve">
+    <value>Trąby powietrzne, ostrzeżenie III stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Wind_Degree1" xml:space="preserve">
+    <value>Wiatr, ostrzeżenie I stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Wind_Degree2" xml:space="preserve">
+    <value>Wiatr, ostrzeżenie II stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Wind_Degree3" xml:space="preserve">
+    <value>Wiatr, ostrzeżenie III stopnia</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Storms" xml:space="preserve">
+    <value>Wykryto wyładowania atmosferyczne!</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Storms" xml:space="preserve">
+    <value>Brak wyładowań atmosferycznych w okolicy</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Warnings" xml:space="preserve">
+    <value>Brak ostrzeżeń pogodowych w okolicy</value>
+  </data>
+  <data name="Menu_Notifications" xml:space="preserve">
+    <value>Powiadomienia</value>
+  </data>
+  <data name="Notifications_Cancel" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="Notifications_StormNotifications" xml:space="preserve">
+    <value>Powiadomienia o burzach</value>
+  </data>
+  <data name="Notifications_UpdatesFrequency" xml:space="preserve">
+    <value>Częstotliwość aktualizacji</value>
+  </data>
+  <data name="Notifications_WeatherAlertNotifications" xml:space="preserve">
+    <value>Powiadomienia o ostrzeżeniach pogodowych</value>
+  </data>
+  <data name="Notifications_Confirm" xml:space="preserve">
+    <value>Zatwierdź</value>
+  </data>
+  <data name="Sources" xml:space="preserve">
+    <value>Źródła</value>
+  </data>
+</root>

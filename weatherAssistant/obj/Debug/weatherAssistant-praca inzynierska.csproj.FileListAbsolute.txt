@@ -1,0 +1,17 @@
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Debug\weatherAssistant-praca inzynierska.exe.config
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Debug\weatherAssistant-praca inzynierska.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Debug\weatherAssistant-praca inzynierska.pdb
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\MainWindow.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\App.g.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska_MarkupCompile.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska_MarkupCompile.lref
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\MainWindow.baml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska.g.resources
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant_praca_inzynierska.Properties.Resources.resources
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska.csproj.GenerateResource.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska.csproj.CopyComplete
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\weatherAssistant-praca inzynierska\obj\Debug\weatherAssistant-praca inzynierska.pdb

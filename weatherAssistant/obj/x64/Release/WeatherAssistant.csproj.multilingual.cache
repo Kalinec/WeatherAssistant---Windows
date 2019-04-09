@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Properties\Resources.resx</FileName>
+    <Checksum>263628165511853135992552161611841498</Checksum>
+    <ModifiedTime>2018-11-26T12:51:54.1631322</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\WeatherAssistant.pl.xlf</FileName>
+    <Checksum>2431017112202411611481051805261825792</Checksum>
+    <ModifiedTime>2018-11-26T19:05:18.7707263+01:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage>
+      <string>6 resource strings with existing translations were updated and applied to the XLIFF file.  The related translations are unchanged, but should be checked to ensure they are still valid for the updated source string.</string>
+    </WarningMessage>
+  </CacheFile>
+  <CacheFile>
+    <FileName>Properties\Resources.pl.resx</FileName>
+    <Checksum>1411016237211535253602416209183207137243</Checksum>
+    <ModifiedTime>2018-11-26T19:05:18.8257826+01:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

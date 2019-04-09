@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Properties\Resources.resx</FileName>
+    <Checksum>89873278105401503710701744312841126215</Checksum>
+    <ModifiedTime>2018-09-13T17:05:19.7373916</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\WeatherAssistant.pl.xlf</FileName>
+    <Checksum>208120842218414261714868936254301244</Checksum>
+    <ModifiedTime>2018-09-13T17:05:48.186928+02:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Properties\Resources.pl.resx</FileName>
+    <Checksum>1074419124113427226250189140245342512003823</Checksum>
+    <ModifiedTime>2018-09-17T13:05:45.4381601+02:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>

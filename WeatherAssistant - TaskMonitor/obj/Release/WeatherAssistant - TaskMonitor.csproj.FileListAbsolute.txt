@@ -1,0 +1,8 @@
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\Release Builds\WeatherAssistant - TaskMonitor.exe.config
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\Release Builds\WeatherAssistant - TaskMonitor.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\Release Builds\WeatherAssistant - TaskMonitor.pdb
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\obj\Release\WeatherAssistant - TaskMonitor.csprojAssemblyReference.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\obj\Release\WeatherAssistant - TaskMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\obj\Release\WeatherAssistant - TaskMonitor.csproj.CopyComplete
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\obj\Release\WeatherAssistant - TaskMonitor.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\obj\Release\WeatherAssistant - TaskMonitor.pdb

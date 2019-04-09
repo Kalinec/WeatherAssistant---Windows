@@ -1,0 +1,10 @@
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\WeatherAssistant - TaskMonitor.exe.config
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\WeatherAssistant - TaskMonitor.exe
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\WeatherAssistant - TaskMonitor.pdb
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Windows.winmd
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\weatherAssistant-praca inzynierska\WeatherAssistant - TaskMonitor\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml

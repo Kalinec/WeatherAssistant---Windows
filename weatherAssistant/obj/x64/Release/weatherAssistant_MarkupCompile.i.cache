@@ -1,0 +1,20 @@
+﻿weatherAssistant
+
+
+winexe
+C#
+.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\WeatherAssistant---Windows-master\weatherAssistant\obj\x64\Release\
+weatherAssistant
+none
+false
+TRACE
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\WeatherAssistant---Windows-master\weatherAssistant\App.xaml
+10479316551
+11418485113
+50-322631132
+32138993544
+Controls\ImageButton.xaml;Controls\MenuButton.xaml;Controls\WeatherWarningInfo.xaml;MainWindow.xaml;Themes\Theme.xaml;Views\NotificationsView.xaml;Views\PlanTheTripView.xaml;Views\StormSearchView.xaml;Views\StormyMapView.xaml;Views\WeatherForecastView.xaml;
+
+True
+

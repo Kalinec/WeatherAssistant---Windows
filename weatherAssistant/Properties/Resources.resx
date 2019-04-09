@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Check" xml:space="preserve">
+    <value>Check</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="Cloudiness" xml:space="preserve">
+    <value>Cloudiness</value>
+  </data>
+  <data name="Condition" xml:space="preserve">
+    <value>Condition</value>
+  </data>
+  <data name="Coordinate" xml:space="preserve">
+    <value>Coordinate</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="DestinationCity" xml:space="preserve">
+    <value>Destination City</value>
+  </data>
+  <data name="Details_word" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="Direction" xml:space="preserve">
+    <value>Direction</value>
+  </data>
+  <data name="Direction_East" xml:space="preserve">
+    <value>East</value>
+  </data>
+  <data name="Direction_North" xml:space="preserve">
+    <value>North</value>
+  </data>
+  <data name="Direction_NorthEast" xml:space="preserve">
+    <value>North-East</value>
+  </data>
+  <data name="Direction_NorthWest" xml:space="preserve">
+    <value>North-West</value>
+  </data>
+  <data name="Direction_South" xml:space="preserve">
+    <value>South</value>
+  </data>
+  <data name="Direction_SouthEast" xml:space="preserve">
+    <value>South-East</value>
+  </data>
+  <data name="Direction_SouthWest" xml:space="preserve">
+    <value>South-West</value>
+  </data>
+  <data name="Direction_West" xml:space="preserve">
+    <value>West</value>
+  </data>
+  <data name="Frost" xml:space="preserve">
+    <value>Frost</value>
+  </data>
+  <data name="Heat" xml:space="preserve">
+    <value>Heat</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>hour</value>
+  </data>
+  <data name="Humidity" xml:space="preserve">
+    <value>Humidity</value>
+  </data>
+  <data name="Latitude" xml:space="preserve">
+    <value>Latitude</value>
+  </data>
+  <data name="Longitude" xml:space="preserve">
+    <value>Longitude</value>
+  </data>
+  <data name="MapOfEurope" xml:space="preserve">
+    <value>Map of Europe</value>
+  </data>
+  <data name="MapOfEurope_animated" xml:space="preserve">
+    <value>Map of Europe (animated)</value>
+  </data>
+  <data name="MapOfPoland" xml:space="preserve">
+    <value>Map of Poland</value>
+  </data>
+  <data name="MapOfPoland_animated" xml:space="preserve">
+    <value>Map of Poland (animated)</value>
+  </data>
+  <data name="Menu_Notifications" xml:space="preserve">
+    <value>Notifications</value>
+  </data>
+  <data name="Menu_PlanTheTrip" xml:space="preserve">
+    <value>Plan a trip</value>
+  </data>
+  <data name="Menu_StormSearch" xml:space="preserve">
+    <value>Storm Search</value>
+  </data>
+  <data name="Menu_StormyMap" xml:space="preserve">
+    <value>Stormy Map</value>
+  </data>
+  <data name="Menu_WeatherForecast" xml:space="preserve">
+    <value>Weather Forecast</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>minutes</value>
+  </data>
+  <data name="NearestThunderbolt" xml:space="preserve">
+    <value>Nearest thunderbolt</value>
+  </data>
+  <data name="Notifications_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Notifications_Confirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="Notifications_StormNotifications" xml:space="preserve">
+    <value>Storm notifications</value>
+  </data>
+  <data name="Notifications_UpdatesFrequency" xml:space="preserve">
+    <value>Frequency of updates</value>
+  </data>
+  <data name="Notifications_WeatherAlertNotifications" xml:space="preserve">
+    <value>Weather alert notifications</value>
+  </data>
+  <data name="NumberOfThunderbolts" xml:space="preserve">
+    <value>Number of thunderbolts</value>
+  </data>
+  <data name="Or" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Frost_Degree1" xml:space="preserve">
+    <value>Frost, 1st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Frost_Degree2" xml:space="preserve">
+    <value>Frost, 2st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Frost_Degree3" xml:space="preserve">
+    <value>Frost, 3st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Heat_Degree1" xml:space="preserve">
+    <value>Heat, 1st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Heat_Degree2" xml:space="preserve">
+    <value>Heat, 2st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Heat_Degree3" xml:space="preserve">
+    <value>Heat, 3st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High" xml:space="preserve">
+    <value>High Risk</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Cloudiness" xml:space="preserve">
+    <value>High cloudiness</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Storms" xml:space="preserve">
+    <value>Lightning detected in the area</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Temperature" xml:space="preserve">
+    <value>Temperature above the norm</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Visibility" xml:space="preserve">
+    <value>Poor visibility</value>
+  </data>
+  <data name="PlanTheTrip_Risk_High_Wind" xml:space="preserve">
+    <value>Strong wind</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate" xml:space="preserve">
+    <value>Moderate Risk</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Cloudiness" xml:space="preserve">
+    <value>Moderate cloudiness</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Temperature" xml:space="preserve">
+    <value>Temperature within normal limits</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Visibility" xml:space="preserve">
+    <value>Moderate visibility</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Moderate_Wind" xml:space="preserve">
+    <value>Moderate wind</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None" xml:space="preserve">
+    <value>No Risk</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Cloudiness" xml:space="preserve">
+    <value>Low cloudiness</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Storms" xml:space="preserve">
+    <value>No lightning in the area</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Temperature" xml:space="preserve">
+    <value>Temperature in the norm</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Visibility" xml:space="preserve">
+    <value>Good visibility</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Warnings" xml:space="preserve">
+    <value>No weather warnings in the area</value>
+  </data>
+  <data name="PlanTheTrip_Risk_None_Wind" xml:space="preserve">
+    <value>Weak wind</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Rain_Degree1" xml:space="preserve">
+    <value>Rain, 1st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Rain_Degree2" xml:space="preserve">
+    <value>Rain, 2st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Rain_Degree3" xml:space="preserve">
+    <value>Rain, 3st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Storms_Degree1" xml:space="preserve">
+    <value>Thunderstorms, 1st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Storms_Degree2" xml:space="preserve">
+    <value>Thunderstorms, 2st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Storms_Degree3" xml:space="preserve">
+    <value>Thunderstorms, 3st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Tornado_Degree1" xml:space="preserve">
+    <value>Tornado, 1st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Tornado_Degree2" xml:space="preserve">
+    <value>Tornado, 2st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Tornado_Degree3" xml:space="preserve">
+    <value>Tornado, 3st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Wind_Degree1" xml:space="preserve">
+    <value>Wind, 1st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Wind_Degree2" xml:space="preserve">
+    <value>Wind, 2st degree warning</value>
+  </data>
+  <data name="PlanTheTrip_Risk_Wind_Degree3" xml:space="preserve">
+    <value>Wind, 3st degree warning</value>
+  </data>
+  <data name="Pressure" xml:space="preserve">
+    <value>Pressure</value>
+  </data>
+  <data name="Radius" xml:space="preserve">
+    <value>Radius</value>
+  </data>
+  <data name="Rain" xml:space="preserve">
+    <value>Rain</value>
+  </data>
+  <data name="SourceCity" xml:space="preserve">
+    <value>Source City</value>
+  </data>
+  <data name="Sources" xml:space="preserve">
+    <value>Sources</value>
+  </data>
+  <data name="Speed" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="Storms" xml:space="preserve">
+    <value>Storms</value>
+  </data>
+  <data name="Sunrise" xml:space="preserve">
+    <value>Sunrise</value>
+  </data>
+  <data name="Sunset" xml:space="preserve">
+    <value>Sunset</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="Title_test" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="Tornado" xml:space="preserve">
+    <value>Tornado</value>
+  </data>
+  <data name="Warning_Frost1" xml:space="preserve">
+    <value>From -20 to -25 °C</value>
+  </data>
+  <data name="Warning_Frost2" xml:space="preserve">
+    <value>From -26 to -30 °C</value>
+  </data>
+  <data name="Warning_Frost3" xml:space="preserve">
+    <value>Below -30 °C</value>
+  </data>
+  <data name="Warning_Heat1" xml:space="preserve">
+    <value>From 30 to 34 °C</value>
+  </data>
+  <data name="Warning_Heat2" xml:space="preserve">
+    <value>From 35 to 38 °C</value>
+  </data>
+  <data name="Warning_Heat3" xml:space="preserve">
+    <value>Above 38 °C</value>
+  </data>
+  <data name="Warning_Rain1" xml:space="preserve">
+    <value>Rain from 25 to 40 mm
+in 24 hours
+or
+Snow from 10 to 15 cm
+in 24 hours</value>
+  </data>
+  <data name="Warning_Rain2" xml:space="preserve">
+    <value>Rain from 41 to 70 mm
+in 24 hours
+or
+Snow from 16 to 30 cm
+in 24 hours
+or
+Snow from 10 to 15 cm
+in 12 hours</value>
+  </data>
+  <data name="Warning_Rain3" xml:space="preserve">
+    <value>Rain above 70 mm
+in 24 hours
+or
+Snow above 30 cm
+in 24 hours
+or
+Snow above 15 cm
+in 12 hours</value>
+  </data>
+  <data name="Warning_Storms1" xml:space="preserve">
+    <value>Rain from 15 to 40 mm
+Wind in gusts from 60 to 90 km/h
+Hail below 2 cm</value>
+  </data>
+  <data name="Warning_Storms2" xml:space="preserve">
+    <value>Rain from 41 to 70 mm
+Wind in gusts from 91 to 110 km/h
+Hail from 2 to 5 cm</value>
+  </data>
+  <data name="Warning_Storms3" xml:space="preserve">
+    <value>Rain above 70 mm
+Wind in gusts over 110 km/h
+Hail above 5 cm</value>
+  </data>
+  <data name="Warning_Tornado1" xml:space="preserve">
+    <value>Low risk</value>
+  </data>
+  <data name="Warning_Tornado2" xml:space="preserve">
+    <value>Moderate risk</value>
+  </data>
+  <data name="Warning_Tornado3" xml:space="preserve">
+    <value>High risk</value>
+  </data>
+  <data name="Warning_Wind1" xml:space="preserve">
+    <value>In gusts from 70 to 90 km/h</value>
+  </data>
+  <data name="Warning_Wind2" xml:space="preserve">
+    <value>In gusts from 91 to 110 km/h</value>
+  </data>
+  <data name="Warning_Wind3" xml:space="preserve">
+    <value>In gusts above 100 km/h</value>
+  </data>
+  <data name="Wind" xml:space="preserve">
+    <value>Wind</value>
+  </data>
+</root>
